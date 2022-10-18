@@ -115,13 +115,6 @@ if __name__ == '__main__':
         # print(book_info_list)
         # break
         print('爬取完毕！！！')
-        
-class Person:
-    def __init__(self):
-        age = 18
-    pass
-p1 = Person()
-print(p1.age)
 
 
 
